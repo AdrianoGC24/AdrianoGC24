@@ -3,11 +3,11 @@ I'm excited you're here. My name is Adriano. I'm a coder at Riwi and I want to b
 
 Since I was a child I have been interesting in the digital world and technology. 
 
-🧗 I'm very adventurous person
-🏍️ I like to ride motorcycles
-🏋️ I practice calisthenics and currently I go to the gym two days per week
-🎹 Ilike to play the piano
-💼 I am a hardworking and resilient person.
+- 🧗 I'm very adventurous person
+- 🏍️ I like to ride motorcycles
+- 🏋️ I practice calisthenics and currently I go to the gym two days per week
+- 🎹 Ilike to play the piano
+- 💼 I am a hardworking and resilient person.
 
 
 <!--
