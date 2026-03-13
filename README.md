@@ -5,8 +5,8 @@ Since I was a child I have been interesting in the digital world and technology.
 
 - 🧗 I'm very adventurous person
 - 🏍️ I like to ride motorcycles
-- 🏋️ I practice calisthenics and currently I go to the gym two days per week
-- 🎹 Ilike to play the piano
+- 🏋️ I practice calisthenics and currently I go to the gym
+- 🎹 I like to play the piano
 - 💼 I am a hardworking and resilient person.
 
 
