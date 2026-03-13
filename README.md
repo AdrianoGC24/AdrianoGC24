@@ -1,7 +1,15 @@
 ## Hi, You're welcome 👋
-I'm excited you're here. My name is Adriano. I'm a coder at Riwi and I want to be a good software developer. like digital marketing, I have make some proyects or ventures, for example a digital course, E-commerce and also I tried to start a digital marketing agency. Since I was a child I have been interesting in the digital world and technology. I have a degree as an administrative asistant. 
+I'm excited you're here. My name is Adriano. I'm a coder at Riwi and I want to be a good software developer. Also I like digital marketing, I have make some proyects or ventures, for example a digital course, E-commerce and also I tried to start a digital marketing agency. And also I have a degree as an administrative asistant. 
 
-I'm very adventurous person, I like to ride motorcycles, also I practice calisthenics and currently I go to the gym two days per week
+Since I was a child I have been interesting in the digital world and technology. 
+
+🧗 I'm very adventurous person
+🏍️ I like to ride motorcycles
+🏋️ I practice calisthenics and currently I go to the gym two days per week
+🎹 Ilike to play the piano
+💼 I am a hardworking and resilient person.
+
+
 <!--
 **AdrianoGC24/AdrianoGC24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
